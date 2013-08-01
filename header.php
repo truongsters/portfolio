@@ -8,9 +8,9 @@
     $lang = get_bloginfo("language");
     $author = get_bloginfo("name");
     $title = wp_title( '~', false, 'right' )." ".$author;
-    $designer = "Hayden Bleasel";
+    $designer = "Kevin Truong";
     $rating = "general";
-    $keywords = "a,b,c,d";
+    $keywords = "first, website, law, it, hardware";
     $robots = "index, follow";
     $viewport = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi";
     $analytics_code = "UA-XXXX-Y";
